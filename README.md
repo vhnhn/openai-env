@@ -15,7 +15,7 @@ This Python script allows you to interact with the OpenAI GPT-3.5 Turbo model in
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/vhnhn/openai-env.git
     ```
 
 2. **Install the required dependencies:**
